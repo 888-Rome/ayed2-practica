@@ -1,4 +1,4 @@
-# Ejercicios prácticos | Algoritmos y Estructuras de Datos II |
+# Práctica de AyED2
 
 ## 🔗 Índice de Contenidos
 ### ❶ | Arboles y sus Recorridos |
